@@ -5,8 +5,11 @@
         </div>
         <div class="nav-menu">
             <ul class="nav-menu-list">
-                <li>About me</li>
-                <li>GitHub</li>
+                <li>About</li>
+                <li>Skills</li>
+                <li>Education & Experience</li>
+                <li>Projects</li>
+                <li>Contact</li>
             </ul>
         </div>
     </section>

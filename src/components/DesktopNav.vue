@@ -1,12 +1,15 @@
 <template>
     <section class="nav">
         <div class="nav-logo">
-             <img height="200px" src="https://www.freelogodesign.org/Content/img/logo-ex-2.png" alt="logo">
+             <img height="160px" src="https://www.freelogodesign.org/Content/img/logo-ex-2.png" alt="logo">
         </div>
         <div class="nav-menu">
             <ul class="nav-menu-list">
-                <li class="nav-list-item">About Me</li>
-                <li class="nav-list-item">GitHub</li>
+                <li class="nav-list-item">About</li>
+                <li class="nav-list-item">Skills</li>
+                <li class="nav-list-item">Education & Experience</li>
+                <li class="nav-list-item">Projects</li>
+                <li class="nav-list-item">Contact</li>
             </ul>
         </div>
     </section>
@@ -30,7 +33,7 @@ export default {
     align-items: center
     width: 20vw
     .nav-logo
-        margin: 100px auto
+        margin: 50px auto
     .nav-menu
         color: white
 .nav-menu-list

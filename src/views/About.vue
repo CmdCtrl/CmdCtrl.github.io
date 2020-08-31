@@ -1,7 +1,7 @@
 <template>
   <div class="about">
     <div class="about-title">
-      <img height="50px" src="https://themindsetproject.com.au/wp-content/uploads/2017/08/avatar-icon.png" alt="" class="avi">
+      <img height="50px" src="@/assets/my_avi.jpg" alt="" class="avi">
       <div class="title-text-content">
         <p>About Me<p>
         <h2>Jordan Lyon</h2>
